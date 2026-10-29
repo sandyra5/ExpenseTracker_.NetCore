@@ -1,0 +1,17 @@
+﻿
+# Python virtual environment
+ExpenseTrackerAI/.venv/
+
+# Python cache
+ExpenseTrackerAI/__pycache__/
+ExpenseTrackerAI/*.pyc
+
+# API keys and local secrets
+ExpenseTrackerAI/.env
+
+# ASP.NET build files
+**/bin/
+**/obj/
+
+# Local development settings
+appsettings.Development.json
